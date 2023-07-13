@@ -2,7 +2,6 @@
 /android
 .metadata
 analysis_options.yaml
-pubspec.lock
 
 # Miscellaneous
 *.class
